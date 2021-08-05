@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel-savi/Sistema-Chamados?color=%2304D361&style=for-the-badge">
+  
+  <a href="https://github.com/gabriel-savi/clone-pag-login-rocketseat/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabriel-savi/Sistema-Chamados?style=for-the-badge">
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <a href="https://github.com/gabriel-savi">
+    <img alt="Feito por Gabriel Savi" src="https://img.shields.io/badge/feito%20por-gabriel savi-%237519C1?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-## Available Scripts
+<h1 align="center">
+  <img src="./src/login.gif"><br> 
+</h1>
 
-In the project directory, you can run:
+ ## 🏁 Tópicos
 
-### `yarn start`
+<p>
+  👉<a href="#-sobre-o-projeto" style="text-decoration: none; "> Sobre</a> <br/>
+  👉<a href="#-como-executar-o-projeto" style="text-decoration: none"> Como executar</a> <br/>
+  👉<a href="#-tecnologias" style="text-decoration: none"> Tecnologias</a> <br/>
+  👉<a href="#-autor" style="text-decoration: none"> Autor</a> <br/>
+  👉<a href="#user-content--licença" style="text-decoration: none"> Licença</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Sobre o projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O objetivo da aplicação desenvolvida é colocar em prática os conceitos de React adquiridos durante os estudos. A aplicação tem a finalidade de gerenciar chamados para uma empresa. 
+Para ter acesso à esses chamados, e conseguir visualizar, cadastrar ou atualizar um chamado é necessário criar uma conta ou fazer login com um email já cadastrado.
+A aplicação permite também alteração do perfil do usuário(Nome e Foto de perfil).
 
-### `yarn test`
+## 🚀 Como executar o projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Realizar os seguintes passos:
 
-### `yarn build`
+1. Download do código disponível nesse repositório
+2. Abrir o cmd e entrar na raíz do projeto: "...\Sistema-Chamados\chamados"
+3. Executar o comando npm install para instalar as dependências do projeto
+4. Executar o comando npm start para iniciar o projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Obs: O projeto está disponível em produção através do link abaixo:
+https://gabrielsavi-chamados.netlify.app/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pré-requisitos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Antes de começar, você vai precisar ter instalado em sua máquina um bom editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### `yarn eject`
+#### 🧭 Rodando a aplicação web (Frontend)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Clone este repositório
+$ git clone https://github.com/gabriel-savi/Sistema-Chamados.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Sistema-Chamados\chamados
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Instalar dependências #
+$ npm install
 
-## Learn More
+# Iniciar o projeto #
+$ npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🛠 Tecnologias
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### Code Splitting
+HTML5 <br/>
+CSS3 <br/>
+React <br/>
+Firebase <br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### **Utilitários**
 
-### Analyzing the Bundle Size
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a name="-autor"></a>
 
-### Making a Progressive Web App
+## 🦸‍♂️ **Autor**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p>
+<kbd>
+ <img src="https://avatars.githubusercontent.com/u/62802107?s=400&u=54469496bc656b22efade504b7bfb7278af1e6b8&v=4" width="150px;" alt=""/>
+ </kbd>
+ <br />
+ <sub><strong>🌟 Gabriel Savi 🌟</strong></sub>
+</p>
 
-### Advanced Configuration
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-savi-1b9280b2/)](https://www.linkedin.com/in/gabriel-antonio-savi-b4ab1816a/)
+[![Outlook Badge](https://img.shields.io/badge/-savi.gabriel@outlook.com-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=blue&link=mailto:savi.gabriel@outlook.com)](mailto:savi.gabriel@outlook.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+Feito com :satisfied: por Gabriel Savi 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabriel-antonio-savi-b4ab1816a/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
