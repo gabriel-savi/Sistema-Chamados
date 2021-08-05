@@ -23,7 +23,6 @@
   👉<a href="#-como-executar-o-projeto" style="text-decoration: none"> Como executar</a> <br/>
   👉<a href="#-tecnologias" style="text-decoration: none"> Tecnologias</a> <br/>
   👉<a href="#-autor" style="text-decoration: none"> Autor</a> <br/>
-  👉<a href="#user-content--licença" style="text-decoration: none"> Licença</a>
 </p>
 
 ## 💻 Sobre o projeto
